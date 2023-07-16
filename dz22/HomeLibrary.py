@@ -1,7 +1,7 @@
-class HomeLibrary:
-
-    def __int__(self, quantity):
-        self.__quantity = quantity
+#class HomeLibrary:
+#
+#   def __int__(self, quantity):
+#       self.__quantity = quantity
 
 
 class Book:
