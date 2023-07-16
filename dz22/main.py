@@ -33,10 +33,7 @@ while True:
                     else:
                         success = False
                 else:
-                    if success_counter > 0:
-                        success = True
-                    else:
-                        success = False
+                    success = False
             if not success:
                 print('Пусто')
             print('*********************************************************\n')
@@ -56,10 +53,7 @@ while True:
                     else:
                         success = False
                 else:
-                    if success_counter > 0:
-                        success = True
-                    else:
-                        success = False
+                    success = False
             if not success:
                 print('Пусто')
 
